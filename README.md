@@ -66,3 +66,10 @@ This project relies on the following technologies:
 
    ```bash
    pip install -r requirements.txt
+4. Run the python file:
+
+   ```bash
+   python test.py
+    ```bash
+   python main.py
+  
