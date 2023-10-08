@@ -70,6 +70,6 @@ This project relies on the following technologies:
 
    ```bash
    python test.py
-    ```bash
+    
    python main.py
   
