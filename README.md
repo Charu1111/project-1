@@ -37,3 +37,32 @@ This project relies on the following technologies:
 - **Pandas:** A powerful data manipulation library employed for data processing and in-depth analysis.
 
 - **Matplotlib:** A data visualization library employed for crafting insightful charts and graphs.
+
+  ## Getting Started
+
+### Prerequisites
+
+- Python 3.10.7
+- Git (optional, for cloning the repository)
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Charu1111/project-1.git
+   
+2. Create the environment:
+
+   ```bash
+   py -m venv env
+   
+3. Activate the environnment:
+   
+      ```bash
+     .\env\Scripts\activate
+  
+3. Install the requirements:
+
+   ```bash
+   pip install -r requirements.txt
