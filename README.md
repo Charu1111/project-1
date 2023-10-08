@@ -36,7 +36,6 @@ This project relies on the following technologies:
 
 - **Pandas:** A powerful data manipulation library employed for data processing and in-depth analysis.
 
-- **Matplotlib:** A data visualization library employed for crafting insightful charts and graphs.
 
   ## Getting Started
 
