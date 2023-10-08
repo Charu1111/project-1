@@ -1,0 +1,15 @@
+mongodp=mongodb+srv://charusathya333:<password>@cluster0.ivawacd.mongodb.net/?retryWrites=true&w=majority
+
+
+api=AIzaSyCNfh_UD19CLxXMYHDKxUERsOfXHxhlEek
+
+youtube channel name id =[ UCfUjCJCvDmfx20BCQZhZ_dg # Charu Sparkly
+			=UCaB7Ze737I13it_QskH-WBw" #MR SAINT 67
+			=UCqBudXta5bDRCjLYWTGFJ-Q # Pami's World
+			=UCECR7FBx9I9CH7698rxYgFQ # Image Hunter Weddings
+			=UChv_CgPkCDHSMxHgcoknD-w" # Karai Visual Photography
+			=UCPlUuamt8AArXAevFWUiUKw # Madurai 360
+			=UCTCMjShTpZg96cXloCO9q1w # DATA SCIENCE IN TAMIL
+			=UCvppRuz_VW0x2a5BEAphhNg #English Pesalam
+			=UC81xlBzgX5JZfTjHS3kg-VA # Lucky time
+			=UCk3JZr7eS3pg5AGEvBdEvFg" #Village Cooking Channel 
